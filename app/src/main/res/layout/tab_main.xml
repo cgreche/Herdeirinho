@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/default_margin">
+
+    <TextView
+        android:id="@+id/labelDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/default_margin"
+        android:gravity="center"
+        android:text="@string/description_main"
+        android:textSize="@dimen/default_descriptionFontSize"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/buttonVideo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/button_background"
+        android:padding="@dimen/default_margin"
+        android:layout_marginBottom="@dimen/default_buttonPadding"
+        android:text="@string/button_watch_presentation_video"
+        android:textAppearance="@android:style/Widget.Button"
+        android:textColor="@color/colorButton"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <VideoView
+        android:id="@+id/videoIntroduction"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+
+</LinearLayout>

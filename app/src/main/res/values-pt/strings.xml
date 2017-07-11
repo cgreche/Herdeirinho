@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_watch_presentation_video">Assista ao vídeo institucional</string>
+
+    <string name="tab_main_title">Início</string>
+    <string name="tab_events_title">Eventos</string>
+    <string name="tab_donation_title">Doar</string>
+    <string name="tab_apadrinhar_title">Apadrinhar</string>
+    <string name="description_main">Fortalecer a família. Resgatar a cidadania. Quebrar o ciclo de violência. Acolher e prestar atendimento.</string>
+    <string name="description_patronize">Entre em contato com a ONG para se tornar um padrinho. Informe seus dados abaixo.</string>
+    <string name="description_events">Eventos programados a serem realizados pela ONG</string>
+    <string name="description_donation">Faça uma doação para a ONG. Escolha entre as diversas formas de doação abaixo:</string>
+    <string name="description_donation_info">Como Ajudar</string>
+    <string name="description_item_donation">A ONG está precisando dos itens abaixo: </string>
+    <string name="hint_website">Website</string>
+    <string name="hint_phone">Telefone</string>
+    <string name="hint_name">Nome</string>
+    <string name="hint_message">Mensagem</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_company">Organização</string>
+    <string name="hint_cel">Celular</string>
+
+    <string name="email_message_body" translatable="false">
+        Esta mensagem foi gerada a partir do aplicativo %1$s.\n
+        \n
+        O usuário %2$s deseja entrar em contato.\n
+        \n
+        Informações do usuário:\n
+        Nome: %3$s\n
+        E-mail: %4$s\n
+        Telefone: %5$s\n
+        Celular: %6$s\n
+        Organização: %7$s\n
+        Website: %8$s\n
+        \n
+        %9$s
+    </string>
+
+    <string name="email_subject">O usuário %1$s deseja entrar em contato.</string>string>
+
+    <string name="donation_money">Doação de Dinheiro</string>
+    <string name="donation_item">Doação de Itens</string>
+    <string name="donation_info">Doações com Benefício Fiscal.\n
+        \n
+        Se a sua empresa é tributada pelo lucro real, pode abater suas doações da base de cálculo do Imposto de Renda. O IHF está habilitado pela Receita Federal a emitir recibos para esta finalidade (Certificado de Utilidade Pública Federal – Portaria Nº 2021 de 17/05/2013). Fale conosco!
+        \n
+        \n
+        Nota Fiscal Paulista
+        \n
+        Doe seus créditos para o IHF – Basta indicar o nosso CNPJ nas suas compras ou enviar seus cupons para uma de nossas Unidades.
+        CNPJ/MF n º 08.346.099/0001-90</string>
+    <string name="button_event_list">Clique para ver os Eventos</string>
+    <string name="event_details_activity_title">Detalhes do Evento</string>
+    <string name="event_description">Descrição: </string>
+    <string name="event_date">Data: </string>
+    <string name="event_name">Nome: </string>
+    <string name="event_local">Local: </string>
+
+    <string name="action_send_email">Enviar e-mail...</string>
+
+</resources>
